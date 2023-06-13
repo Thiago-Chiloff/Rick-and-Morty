@@ -1,0 +1,39 @@
+body {
+    background-color: #4682B4;
+}
+.color {
+    color: white;
+}
+input {
+    margin-left: 500px;
+    background-color: #708090;
+    color: #F8F8FF;
+    border: none;
+    width: 250px;
+    border-radius: 50px;
+}
+img {
+    margin-left: 500px;
+    border-radius: 500px;
+    border: white 5px solid;
+    height: 250px;
+    width: 250px;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+button {
+    width: 100px;
+    border: none;
+    border-radius: 50px;
+    box-shadow: 5px 5px black;
+}
+button:active {
+    box-shadow: none;
+}
